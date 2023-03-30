@@ -16,5 +16,11 @@ export type AmplifyDependentResourcesAttributes = {
       "UserPoolId": "string",
       "UserPoolName": "string"
     }
+  },
+  "storage": {
+    "reactgraphql": {
+      "BucketName": "string",
+      "Region": "string"
+    }
   }
 }
